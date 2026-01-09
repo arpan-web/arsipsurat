@@ -11,7 +11,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Arsip Surat Kota Samarinda</title>
+    <title>Arsip Surat Bapenda Bidang Retribusi</title>
 
     <!-- Bootstrap -->
     <link href="../../assets/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -53,8 +53,8 @@
 
               <div class="separator">
                 <div>
-                  <h2><i class="fa fa-institution"></i> PEMKOT SAMARINDA</h2>
-                  <p>©2017 ILMU KOMPUTER UNMUL</p>
+                  <h2><i class="fa fa-institution"></i> BAPENDA BIDANG RETRIBUSI</h2>
+                  <p>©2025 POLITEKNIK NEGERI PONTIANAK  </p>
                 </div>
               </div>
             </form>

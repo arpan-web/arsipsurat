@@ -7,7 +7,7 @@ include "koneksi/ceksession.php";
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Arsip Surat Kota Samarinda</title>
+    <title>Arsip Surat Bapenda Pemprov. Kalimantan Barat</title>
     <meta name="description" content="Free Bootstrap Theme by BootstrapMade.com">
     <meta name="keywords" content="free website templates, free bootstrap themes, free template, free bootstrap, free website template">
     
@@ -42,6 +42,7 @@ include "koneksi/ceksession.php";
               <ul class="nav navbar-nav navbar-right">
                 <li class="active"><a href="#main-header">Beranda</a></li>
                 <li class=""><a href="#feature">Tentang</a></li>
+                <li class=""><a href="#testimonial">Tim</a></li>
                 <li class=""><a href="#portfolio">Pengembang</a></li>
                 <ul class="nav navbar-nav navbar-right">
                 <li class="">
@@ -68,7 +69,7 @@ include "koneksi/ceksession.php";
               <div class="logo">
 		            <img src="img/bapenda.png" alt="" />
 	            </div>
-              <h3 class="bnr-sub-title">SISTEM INFORMASI PENGARSIPAN SURAT</h3>
+              <h3 class="bnr-sub-title">SISTEM INFORMASI PENGARSIPAN SURAT <br>BIDANG RETRIBUSI BAGI HASIL PAJAK DANA PERIMBANGAN<br>  </h3>
                 
             </div>
           </div>
@@ -120,7 +121,7 @@ include "koneksi/ceksession.php";
             <h2 class="service-title pad-bt15">Pengembang</h2>
             <p class="sub-title pad-bt15">"The difference between success and failure is a great team"</p>
             <hr class="bottom-line">
-          </div>
+          </div> 
           <div class="col-md-3"></div>
           <div class="col-md-6 col-sm-6 col-xs-12 portfolio-item padding-right-zero mr-btn-15">
             <figure>

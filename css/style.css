@@ -126,7 +126,7 @@ HEADER
 .navbar-default .navbar-brand {
     color: #fff;
     font-family: 'Raleway', sans-serif;
-    font-weight: 700;
+    font-weight: 600;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus
 {
@@ -134,7 +134,7 @@ HEADER
 }
 .navbar-brand {
     padding: 0px;
-    font-size: 24px;
+    font-size: 20px;
     text-transform: uppercase;
     padding: 15px 0px;
     margin-top: 6px;
